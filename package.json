@@ -1,0 +1,16 @@
+{
+  "name": "wa-bot-termux",
+  "version": "1.0.0",
+  "description": "WhatsApp Bot via Termux dengan Pairing Code",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "author": "YourName",
+  "license": "MIT",
+  "dependencies": {
+    "@adiwajshing/baileys": "^5.0.0",
+    "axios": "^1.6.0",
+    "fs-extra": "^11.1.1"
+  }
+}
